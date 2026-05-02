@@ -4,6 +4,7 @@ import ExploreContainer from '../components/ExploreContainer';
 import './Home.css';
 import { IonReactRouter } from '@ionic/react-router';
 import { Route, Redirect } from 'react-router';
+// @ts-ignore
 import { bookmarkOutline, search, star } from 'ionicons/icons';
 import { fetchModule } from 'vite';
 import Feed from './home-tabs/Feed';
