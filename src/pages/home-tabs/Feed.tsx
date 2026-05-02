@@ -32,8 +32,8 @@ const Feed: React.FC = () => {
                <IonCard>
                    <img alt="Silhouette of mountains" src="https://ionicframework.com/docs/img/demos/card-media.png" />
                       <IonCardHeader>
-                        <IonCardTitle>YUDOBSHERE</IonCardTitle>
-                          <IonCardSubtitle>YAPHETS</IonCardSubtitle>
+                        <IonCardTitle>JanuaryKangel</IonCardTitle>
+                          <IonCardSubtitle>KaiiMichii</IonCardSubtitle>
                              </IonCardHeader>
 
                                   <IonCardContent>Here's a small text description for the card content. Nothing more, nothing less.</IonCardContent>
